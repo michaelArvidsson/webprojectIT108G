@@ -41,22 +41,15 @@ h3 {
     color: #E7E6E3;
 }
 .nav_button{
-            font-size: 15px;
-            text-align: center;
-            padding: 5px;
-            margin: 5px;
-            border-radius: 10px;
-            transition: 0.5s;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    transition: 0.5s;
 }
 .nav_button:hover {
     box-shadow: 0px 0px 5px 2px;
-}
-.nav_button_p{
-            font-size: 15px;
-            text-align: center;
-            padding: 5px;
-            margin: 5px;
-            border-radius: 10px;
 }
 #search{
     color: #E7E6E3;
